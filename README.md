@@ -10,7 +10,7 @@
  *Hello from Russia*❤
  
  ***
- ######Основной функционал:
+ **Основной функционал:**
  
 **— Редактор (ACE 1.13.0):**
 - Вкладки HTML/CSS/JS;
@@ -18,7 +18,7 @@
 - Автоматический отступ / табуляция;
 - Перетаскивание текста мышью;
 - Подсказки и автозаполнение кода;
-- Прочий функционал доступный сочетаниями клавиш : [ACE Wiki]([https://alex-listochek.github.io/Frontback-Editor/](https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts);    
+- Прочий функционал доступный сочетаниями клавиш : [ACE Wiki](https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts);    
 **— Визуализация:**
 - Связанный с редактором iframe;
 - Задержка обновления 1000 миллисекунд;
